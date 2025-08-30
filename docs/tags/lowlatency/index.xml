@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lowlatency on </title>
+    <link>https://peerasan.github.io/tags/lowlatency/</link>
+    <description>Recent content in Lowlatency on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copyright © 2000-2015, PB; all rights reserved.</copyright>
+    <lastBuildDate>Sat, 30 Aug 2025 18:54:24 +0700</lastBuildDate><atom:link href="https://peerasan.github.io/tags/lowlatency/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>av1 compare</title>
+      <link>https://peerasan.github.io/post/archives/libaom-av1-compare/</link>
+      <pubDate>Sat, 30 Aug 2025 18:54:24 +0700</pubDate>
+      
+      <guid>https://peerasan.github.io/post/archives/libaom-av1-compare/</guid>
+      <description>
+        
+          
+            &lt;p&gt;WebRTC: End-to-End ~150ms&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;OBS using for create virtual webcam&lt;/li&gt;
+&lt;li&gt;Browser send video H.264/Opus to Server in Singapore&lt;/li&gt;
+&lt;li&gt;Video playback (Thailand)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;div class=&#34;video&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/jN4z_9ySRl0?controls=1&amp;rel=0&#34; loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Webrtc</title>
+      <link>https://peerasan.github.io/post/archives/webrtc/</link>
+      <pubDate>Sat, 30 Aug 2025 18:54:24 +0700</pubDate>
+      
+      <guid>https://peerasan.github.io/post/archives/webrtc/</guid>
+      <description>
+        
+          
+            &lt;p&gt;WebRTC: End-to-End ~150ms&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;OBS using for create virtual webcam&lt;/li&gt;
+&lt;li&gt;Browser send video H.264/Opus to Server in Singapore&lt;/li&gt;
+&lt;li&gt;Video playback (Thailand)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;div class=&#34;video&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/jN4z_9ySRl0?controls=1&amp;rel=0&#34; loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+    <item>
+      <title>Webrtc With AV1</title>
+      <link>https://peerasan.github.io/post/archives/webrtc-with-av1/</link>
+      <pubDate>Sat, 30 Aug 2025 18:54:24 +0700</pubDate>
+      
+      <guid>https://peerasan.github.io/post/archives/webrtc-with-av1/</guid>
+      <description>
+        
+          
+            &lt;div class=&#34;video&#34;&gt;
+  &lt;iframe src=&#34;https://www.youtube.com/embed/UHkJd5u2ynw?controls=1&amp;rel=0&#34; loading=&#34;lazy&#34;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+          
+          
+        
+      </description>
+    </item>
+    
+  </channel>
+</rss>
