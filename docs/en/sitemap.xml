@@ -2,93 +2,93 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://peerasan.github.io/</loc>
     <lastmod>2025-08-29T13:14:06+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="http://localhost:1313/pt/"
+                href="https://peerasan.github.io/pt/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/"
+                href="https://peerasan.github.io/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/ai/</loc>
+    <loc>https://peerasan.github.io/tags/ai/</loc>
     <lastmod>2025-08-29T13:14:06+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/audio/</loc>
+    <loc>https://peerasan.github.io/tags/audio/</loc>
     <lastmod>2025-08-29T13:14:06+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/index/</loc>
+    <loc>https://peerasan.github.io/tags/index/</loc>
     <lastmod>2025-08-29T13:14:06+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/</loc>
+    <loc>https://peerasan.github.io/post/</loc>
     <lastmod>2025-08-29T13:14:06+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="http://localhost:1313/pt/post/"
+                href="https://peerasan.github.io/pt/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/post/"
+                href="https://peerasan.github.io/post/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://peerasan.github.io/tags/</loc>
     <lastmod>2025-08-29T13:14:06+07:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="http://localhost:1313/pt/tags/"
+                href="https://peerasan.github.io/pt/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/tags/"
+                href="https://peerasan.github.io/tags/"
                 />
   </url><url>
-    <loc>http://localhost:1313/tags/video/</loc>
+    <loc>https://peerasan.github.io/tags/video/</loc>
     <lastmod>2025-08-29T13:14:06+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/whisper/</loc>
+    <loc>https://peerasan.github.io/tags/whisper/</loc>
     <lastmod>2025-08-29T13:14:06+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2025/whisper/</loc>
+    <loc>https://peerasan.github.io/post/2025/whisper/</loc>
     <lastmod>2025-08-29T13:14:06+07:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/archives/</loc>
+    <loc>https://peerasan.github.io/archives/</loc>
     <lastmod>2019-05-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://peerasan.github.io/about/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://peerasan.github.io/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="http://localhost:1313/pt/categories/"
+                href="https://peerasan.github.io/pt/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/categories/"
+                href="https://peerasan.github.io/categories/"
                 />
   </url><url>
-    <loc>http://localhost:1313/search/</loc>
+    <loc>https://peerasan.github.io/search/</loc>
   </url><url>
-    <loc>http://localhost:1313/series/</loc>
+    <loc>https://peerasan.github.io/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="http://localhost:1313/pt/series/"
+                href="https://peerasan.github.io/pt/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://localhost:1313/series/"
+                href="https://peerasan.github.io/series/"
                 />
   </url>
 </urlset>
