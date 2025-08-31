@@ -43,7 +43,7 @@
     &lt;/picture&gt;
 &lt;/figure&gt;
 &lt;/p&gt;
-&lt;p&gt;As developers, we&#39;re always looking for ways to enhance our coding workflow with AI assistance. Today, we&#39;ll walk through setting up &lt;strong&gt;Cline&lt;/strong&gt; (an AI coding assistant) with &lt;strong&gt;Ollama&lt;/strong&gt; (local LLM runtime) in Visual Studio Code. This powerful combination gives you AI-powered coding assistance while keeping everything running locally on your machine.&lt;/p&gt;
+&lt;p&gt;As developers, we&#39;re always looking for ways to enhance our coding workflow with AI assistance. Today, we&#39;ll walk through setting up &lt;strong&gt;Cline&lt;/strong&gt; (an AI coding assistant) with &lt;strong&gt;Ollama&lt;/strong&gt; (local LLM runtime) in Visual Studio Code. This powerful combination gives you AI-powered coding assistance while keeping everything running locally on your machine. And yeah &lt;strong&gt;It&#39;s FREE&lt;/strong&gt; :)&lt;/p&gt;
 &lt;h2 id=&#34;what-youll-need&#34;&gt;What You&#39;ll Need&lt;/h2&gt;
 &lt;p&gt;Before we dive in, make sure you have:&lt;/p&gt;
           
