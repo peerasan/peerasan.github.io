@@ -7,7 +7,51 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2000-2015, PB; all rights reserved.</copyright>
-    <lastBuildDate>Sat, 30 Aug 2025 19:08:18 +0700</lastBuildDate><atom:link href="https://peerasan.github.io/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 31 Aug 2025 21:08:18 +0700</lastBuildDate><atom:link href="https://peerasan.github.io/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Using Cline and Ollama with Visual Studio Code</title>
+      <link>https://peerasan.github.io/post/2025/cline-ollama-vscode-setup/</link>
+      <pubDate>Sun, 31 Aug 2025 21:08:18 +0700</pubDate>
+      
+      <guid>https://peerasan.github.io/post/2025/cline-ollama-vscode-setup/</guid>
+      <description>
+        
+          
+            &lt;h1 id=&#34;setting-up-cline-and-ollama-with-visual-studio-code&#34;&gt;Setting up Cline and Ollama with Visual Studio Code&lt;/h1&gt;
+&lt;p&gt;&lt;figure&gt;
+  &lt;picture&gt;
+
+    
+      
+        
+        
+        
+        
+        
+        
+    &lt;img
+      loading=&#34;lazy&#34;
+      decoding=&#34;async&#34;
+      alt=&#34;&#34;
+      
+        class=&#34;image_figure image_internal image_unprocessed&#34;
+        src=&#34;https://peerasan.github.io/images/2025/cline-ollama-vsc-t.png&#34;
+      
+      
+    /&gt;
+
+    &lt;/picture&gt;
+&lt;/figure&gt;
+&lt;/p&gt;
+&lt;p&gt;As developers, we&#39;re always looking for ways to enhance our coding workflow with AI assistance. Today, we&#39;ll walk through setting up &lt;strong&gt;Cline&lt;/strong&gt; (an AI coding assistant) with &lt;strong&gt;Ollama&lt;/strong&gt; (local LLM runtime) in Visual Studio Code. This powerful combination gives you AI-powered coding assistance while keeping everything running locally on your machine.&lt;/p&gt;
+&lt;h2 id=&#34;what-youll-need&#34;&gt;What You&#39;ll Need&lt;/h2&gt;
+&lt;p&gt;Before we dive in, make sure you have:&lt;/p&gt;
+          
+          
+        
+      </description>
+    </item>
+    
     <item>
       <title>Whisper</title>
       <link>https://peerasan.github.io/post/2025/whisper/</link>
