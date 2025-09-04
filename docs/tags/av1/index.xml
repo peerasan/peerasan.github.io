@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Av1 on </title>
-    <link>https://peerasan.github.io/tags/av1/</link>
+    <link>https://www.media-streaming.dev/tags/av1/</link>
     <description>Recent content in Av1 on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2000-2015, PB; all rights reserved.</copyright>
-    <lastBuildDate>Sat, 30 Aug 2025 18:54:24 +0700</lastBuildDate><atom:link href="https://peerasan.github.io/tags/av1/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 30 Aug 2025 18:54:24 +0700</lastBuildDate><atom:link href="https://www.media-streaming.dev/tags/av1/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>av1 compare</title>
-      <link>https://peerasan.github.io/post/archives/libaom-av1-compare/</link>
+      <link>https://www.media-streaming.dev/post/archives/libaom-av1-compare/</link>
       <pubDate>Sat, 30 Aug 2025 18:54:24 +0700</pubDate>
       
-      <guid>https://peerasan.github.io/post/archives/libaom-av1-compare/</guid>
+      <guid>https://www.media-streaming.dev/post/archives/libaom-av1-compare/</guid>
       <description>
         
           
@@ -35,10 +35,10 @@
     
     <item>
       <title>Compile FFmpeg with AOM AV1 and SVT-AV1</title>
-      <link>https://peerasan.github.io/post/archives/compile-ffmpeg-with-aom-av1-and-svt-av1/</link>
+      <link>https://www.media-streaming.dev/post/archives/compile-ffmpeg-with-aom-av1-and-svt-av1/</link>
       <pubDate>Sat, 30 Aug 2025 18:54:24 +0700</pubDate>
       
-      <guid>https://peerasan.github.io/post/archives/compile-ffmpeg-with-aom-av1-and-svt-av1/</guid>
+      <guid>https://www.media-streaming.dev/post/archives/compile-ffmpeg-with-aom-av1-and-svt-av1/</guid>
       <description>
         
           
@@ -53,10 +53,10 @@
     
     <item>
       <title>SRT (Secure Reliable Transport) Latency (End-to-End)</title>
-      <link>https://peerasan.github.io/post/archives/srt-e2e/</link>
+      <link>https://www.media-streaming.dev/post/archives/srt-e2e/</link>
       <pubDate>Sat, 30 Aug 2025 18:54:24 +0700</pubDate>
       
-      <guid>https://peerasan.github.io/post/archives/srt-e2e/</guid>
+      <guid>https://www.media-streaming.dev/post/archives/srt-e2e/</guid>
       <description>
         
           
@@ -86,7 +86,7 @@
       alt=&#34;&#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://peerasan.github.io/images/archives/srt-1.png&#34;
+        src=&#34;https://www.media-streaming.dev/images/archives/srt-1.png&#34;
       
       
     /&gt;
@@ -104,10 +104,10 @@ I install OBS, ffmpeg and srt-live-transmit on localhost. latency results around
     
     <item>
       <title>Webrtc</title>
-      <link>https://peerasan.github.io/post/archives/webrtc/</link>
+      <link>https://www.media-streaming.dev/post/archives/webrtc/</link>
       <pubDate>Sat, 30 Aug 2025 18:54:24 +0700</pubDate>
       
-      <guid>https://peerasan.github.io/post/archives/webrtc/</guid>
+      <guid>https://www.media-streaming.dev/post/archives/webrtc/</guid>
       <description>
         
           
@@ -129,10 +129,10 @@ I install OBS, ffmpeg and srt-live-transmit on localhost. latency results around
     
     <item>
       <title>Webrtc With AV1</title>
-      <link>https://peerasan.github.io/post/archives/webrtc-with-av1/</link>
+      <link>https://www.media-streaming.dev/post/archives/webrtc-with-av1/</link>
       <pubDate>Sat, 30 Aug 2025 18:54:24 +0700</pubDate>
       
-      <guid>https://peerasan.github.io/post/archives/webrtc-with-av1/</guid>
+      <guid>https://www.media-streaming.dev/post/archives/webrtc-with-av1/</guid>
       <description>
         
           

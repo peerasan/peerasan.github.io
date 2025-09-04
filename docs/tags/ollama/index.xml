@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ollama on </title>
-    <link>https://peerasan.github.io/tags/ollama/</link>
+    <link>https://www.media-streaming.dev/tags/ollama/</link>
     <description>Recent content in Ollama on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright © 2000-2015, PB; all rights reserved.</copyright>
-    <lastBuildDate>Sun, 31 Aug 2025 21:08:18 +0700</lastBuildDate><atom:link href="https://peerasan.github.io/tags/ollama/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 31 Aug 2025 21:08:18 +0700</lastBuildDate><atom:link href="https://www.media-streaming.dev/tags/ollama/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Using Cline and Ollama with Visual Studio Code</title>
-      <link>https://peerasan.github.io/post/2025/cline-ollama-vscode-setup/</link>
+      <link>https://www.media-streaming.dev/post/2025/cline-ollama-vscode-setup/</link>
       <pubDate>Sun, 31 Aug 2025 21:08:18 +0700</pubDate>
       
-      <guid>https://peerasan.github.io/post/2025/cline-ollama-vscode-setup/</guid>
+      <guid>https://www.media-streaming.dev/post/2025/cline-ollama-vscode-setup/</guid>
       <description>
         
           
@@ -35,7 +35,7 @@
       alt=&#34;&#34;
       
         class=&#34;image_figure image_internal image_unprocessed&#34;
-        src=&#34;https://peerasan.github.io/images/2025/cline-ollama-vsc-t.png&#34;
+        src=&#34;https://www.media-streaming.dev/images/2025/cline-ollama-vsc-t.png&#34;
       
       
     /&gt;

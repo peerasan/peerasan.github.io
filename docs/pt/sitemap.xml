@@ -2,66 +2,66 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://peerasan.github.io/pt/</loc>
+    <loc>https://www.media-streaming.dev/pt/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://peerasan.github.io/"
+                href="https://www.media-streaming.dev/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://peerasan.github.io/pt/"
+                href="https://www.media-streaming.dev/pt/"
                 />
   </url><url>
-    <loc>https://peerasan.github.io/pt/post/</loc>
+    <loc>https://www.media-streaming.dev/pt/post/</loc>
     <lastmod>2019-03-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://peerasan.github.io/post/"
+                href="https://www.media-streaming.dev/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://peerasan.github.io/pt/post/"
+                href="https://www.media-streaming.dev/pt/post/"
                 />
   </url><url>
-    <loc>https://peerasan.github.io/pt/categories/</loc>
+    <loc>https://www.media-streaming.dev/pt/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://peerasan.github.io/categories/"
+                href="https://www.media-streaming.dev/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://peerasan.github.io/pt/categories/"
+                href="https://www.media-streaming.dev/pt/categories/"
                 />
   </url><url>
-    <loc>https://peerasan.github.io/pt/series/</loc>
+    <loc>https://www.media-streaming.dev/pt/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://peerasan.github.io/series/"
+                href="https://www.media-streaming.dev/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://peerasan.github.io/pt/series/"
+                href="https://www.media-streaming.dev/pt/series/"
                 />
   </url><url>
-    <loc>https://peerasan.github.io/pt/tags/</loc>
+    <loc>https://www.media-streaming.dev/pt/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://peerasan.github.io/tags/"
+                href="https://www.media-streaming.dev/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt"
-                href="https://peerasan.github.io/pt/tags/"
+                href="https://www.media-streaming.dev/pt/tags/"
                 />
   </url>
 </urlset>
